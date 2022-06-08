@@ -25,7 +25,7 @@
     </Window.Resources>
     <Grid >
         <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="20"/>
+            <ColumnDefinition Width="30"/>
             <ColumnDefinition Width="auto"/>
             <ColumnDefinition Width="auto"/>
             <ColumnDefinition Width="auto"/>
@@ -38,7 +38,7 @@
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="Auto"/>
             <RowDefinition Height="*"/>
-            <RowDefinition Height="20"/>
+            <RowDefinition Height="30"/>
         </Grid.RowDefinitions>
 
         <TextBlock x:Name="Head" Text="Demo Application" Grid.Column="2" Grid.Row="2" FontSize="32" FontFamily="Algerian"/>
